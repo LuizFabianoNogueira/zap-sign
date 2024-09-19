@@ -1,7 +1,7 @@
 # zapsign
 Em breve
 
-
+### License: LGPL-3.0-or-later
 
 ___
 ___
