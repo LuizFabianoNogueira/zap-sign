@@ -1,0 +1,30 @@
+{
+    "name": "luizfabianonogueira/zap-sign",
+    "description": "Gerenciador de contratos por API",
+    "keywords": ["contracts", "zap-sign"],
+    "type": "library",
+    "license": "LGPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "LuizFabianoNogueira\\ZapSign\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luiz Fabianno Nogueira",
+            "email": "luizfabianonogueira@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.3",
+        "laravel/framework": ">=v10.0.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "LuizFabianoNogueira\\ZapSign\\ZapSignServiceProvider"
+            ]
+        }
+    }
+}
