@@ -2,7 +2,8 @@
 
 
 # zapsign
-Em breve
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=IN%20DEVELOPMENT&color=GREEN&style=for-the-badge)
 
 ### License: LGPL-3.0-or-later
 
